@@ -1,8 +1,9 @@
-// 4 задание
-let h = 10,
+console.log('-- 4 задание --');
+
+let hcilindra = 10,
     rcilindra = a7 / 2,
     VCilindra;
 
-VCilindra =  Math.PI * Math.pow(rcilindra, 2) * h;
+VCilindra =  Math.PI * Math.pow(rcilindra, 2) * hcilindra;
 
-console.log(VCilindra);
+console.log('Объем цилиндра', VCilindra);
